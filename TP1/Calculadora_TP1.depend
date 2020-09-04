@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1553702852 source:c:\users\meroz\desktop\c\calculadora_tp1\funciones.c
+
+1553702625 source:c:\users\meroz\desktop\c\calculadora_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1553702625 .h"
+
+1553700863 c:\users\meroz\desktop\c\calculadora_tp1\funciones.h
+
+1554349853 source:c:\users\meroz\desktop\c\tp\calculadora_tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"..\Bibliotecas\funciones.h"
+
+1554349853 tecas\funciones.h"
+
+1553700863 c:\users\meroz\desktop\c\tp\bibliotecas\funciones.h
+
+1599223129 source:/home/sysone/Desktop/Go/C/Laboratorio/ejemplos/-tp_laboratorio_1-2019/TP/Calculadora_TP1/interactiveMenu.c
+	<stdio.h>
+	<stdlib.h>
+	"../Bibliotecas/funciones.h"
+
+1599221603 /home/sysone/Desktop/Go/C/Laboratorio/ejemplos/-tp_laboratorio_1-2019/TP/Bibliotecas/funciones.h
+
+1599222820 source:/home/sysone/Desktop/Go/C/Laboratorio/ejemplos/-tp_laboratorio_1-2019/TP/Calculadora_TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"interactiveMenu.h"
+
+1599222659 /home/sysone/Desktop/Go/C/Laboratorio/ejemplos/-tp_laboratorio_1-2019/TP/Calculadora_TP1/interactiveMenu.h
+	<stdio.h>
+	<stdlib.h>
+	"../Bibliotecas/funciones.h"
+
+1599221769 source:/home/sysone/Desktop/Go/C/Laboratorio/ejemplos/-tp_laboratorio_1-2019/TP/Bibliotecas/funciones.c
+
