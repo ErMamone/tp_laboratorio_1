@@ -38,3 +38,24 @@
 
 1599221769 source:/home/sysone/Desktop/Go/C/Laboratorio/ejemplos/-tp_laboratorio_1-2019/TP/Bibliotecas/funciones.c
 
+1599828932 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/funciones.c
+
+1599829381 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"interactiveMenu.h"
+
+1599829230 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/interactiveMenu.h
+	<stdio.h>
+	<stdlib.h>
+	"../Bibliotecas/funciones.h"
+
+1599221603 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/Bibliotecas/funciones.h
+
+1599830817 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/interactiveMenu.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599828873 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/funciones.h
+
