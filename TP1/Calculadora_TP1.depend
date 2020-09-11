@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1599840438 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/funciones.c
+
+1599841569 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/interactiveMenu.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1599841399 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/funciones.h
+
+1599841558 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"interactiveMenu.h"
+
+1599839416 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP1/interactiveMenu.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

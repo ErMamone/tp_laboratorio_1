@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "../Bibliotecas/funciones.h"
+#include "funciones.h"
 
 /** \brief Menu interactivo para realizar los datos de la calculadora
  *
@@ -17,4 +17,4 @@
  * \return Devuelve un caracter el cual termina el programa o permite reingresar los numeros
  *
  */
-char menuInteractivo(int opcion, int num1, int num2, char seguir, int resultadoSuma, int resultadoResta, int resultadoMulti, float resultadoDiv, int resultadoFactorizacion1, int resultadoFactorizacion2);
+char menuInteractivo(int opcion, float num1, float num2, char seguir, float resultadoSuma, float resultadoResta, float resultadoMulti, float resultadoDiv, float resultadoFactorizacion1, float resultadoFactorizacion2);
