@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1557112931 source:c:\users\meroz\desktop\c\tp\system_employee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"libs/input.h"
+
+1557112907 t.h"
+
+1556860721 c:\users\meroz\desktop\c\tp\system_employee\employee.h
+
+1557110785 c:\users\meroz\desktop\c\tp\system_employee\libs\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557105232 
+
+1557105232 source:c:\users\meroz\desktop\c\tp\system_employee\libs\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557112127 c:\users\meroz\desktop\c\tp\system_employee\arrayemployees.h
+
+1557112907 source:c:\users\meroz\desktop\c\tp\system_employee\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"libs/input.h"
+
+1600961670 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP2/libs/input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600961748 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP2/ArrayEmployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"libs/input.h"
+
+1600960695 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP2/ArrayEmployees.h
+
+1600961677 /home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP2/libs/input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600961721 source:/home/sysone/Desktop/Go/C/Laboratorio/TP/tp_laboratorio_1/TP2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"libs/input.h"
+
